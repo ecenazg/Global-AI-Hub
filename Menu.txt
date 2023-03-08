@@ -1,13 +1,14 @@
-* Please Choose a Pizza Base:
-1: Classic
-2: Margherita
-3: FarmersPizza
-4: PlainPizza
-* and toppings of your choice:
-11: Olives
-12: Mushrooms
-13: GoatCheese
-14: Tuna
-15: Onions
-16: Corn
-* Thank you!
+* Lütfen Bir Pizza Tabanı Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* ve seçeceğiniz sos:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soğan
+16: Mısır
+* Teşekkür ederiz!
+
